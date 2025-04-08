@@ -1,6 +1,6 @@
 # Masri
 
-![Masri](https://github.com/Masri-Programmer/lebenslauf/blob/main/img/masri-programmer.github.io_lebenslauf_.pngw)
+![Masri](https://github.com/Masri-Programmer/lebenslauf/blob/main/img/masri-programmer.github.io_lebenslauf_.png)
 
 ## License
 
